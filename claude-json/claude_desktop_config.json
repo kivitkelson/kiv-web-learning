@@ -16,7 +16,7 @@
       "command": "C:/Users/il_va/github-mcp-server/github-mcp-server.exe",
       "args": ["stdio"],
       "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
       }
     }
   },
