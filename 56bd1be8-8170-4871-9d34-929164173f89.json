@@ -1,0 +1,16 @@
+{
+  "inferenceGatewayBaseUrl": "https://api.deepseek.com/anthropic",
+  "inferenceGatewayApiKey": "sk-71b48adbb50c499f908c877ea76f22ec",
+  "modelDiscoveryEnabled": false,
+  "inferenceModels": [
+    {
+      "name": "claude-3-5-sonnet-20241022",
+      "labelOverride": "Deepseek V4 Flash",
+      "anthropicFamilyTier": "sonnet",
+      "isFamilyDefault": false
+    }
+  ],
+  "inferenceProvider": "gateway",
+  "inferenceCredentialKind": "static",
+  "coworkEgressAllowedHosts": ["*"]
+}
